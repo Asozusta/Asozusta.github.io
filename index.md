@@ -1,0 +1,55 @@
+# Site settings
+title: Erfan Soori
+twitter_username: asozusta
+name: Erfan Soori
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Website
+   url: http://esoori.ir/
+ - title: GitHub
+   url: https://github.com/asozusta
+
+#Any buzzword skills you want to include
+skills:
+ - HTML 5
+ - CSS
+ - JavaScript
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+#blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+#Work experience is required
+roles:
+ - title: Junior Angular Developer
+   start: 2020
+   end: Ongoing
+   employer: Self Employed
+ - title: Application Developer
+   start: 2018
+   end: 2019
+   employer: Tehran, Region 14 Municipality
+   #description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
+#Education is required
+education:
+ - level: Bachelor of Science (B.Sc.)
+   date: 2003
+   subject: Computer Enginering
+   school: Shahrood Univerity of Technology
+#This section is optional (as is the image link below)
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - Asozusta/Mano-Basic-Computer-Using-VHDL.git
+#Stackoverflow flair is optional
+codeforces:
+   profileurl: https://codeforces.com/profile/asozusta
+   flairimageurl: https://avatars0.githubusercontent.com/u/40528633?s=460&v=4
+#Mobile apps section is optional
+apps:
+ - name: Tehran Municipality Asset Management System
+   platform: Android & Web
+   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+   description: kinda like an inventory system.
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>I accept projects of value</strong>: +989107447072
+
